@@ -1,2 +1,2 @@
-# kitab.github.io
+# kitab
 Personal Blog
